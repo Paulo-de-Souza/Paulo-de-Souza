@@ -9,6 +9,7 @@
 ## Tecnologias do meu dia a dia
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Octave-EC6813?style=for-the-badge&logo=octave&logoColor=#0790C0"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/LaTex-0ABF53?style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 
