@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1 align="center">Olá 👋, eu sou Paulo</h1>
+
+![githubbadge](https://img.shields.io/github/followers/Paulo-de-Souza?style=social)
+![githubbadge](https://img.shields.io/github/stars/Paulo-de-Souza?style=social)
+![](https://komarev.com/ghpvc/?username=Paulo-de-Souza&color=brightgreen&style=flat)
+
+
+
+## Tecnologias do meu dia a dia
+<div style="display: inline_block">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/LaTex-0ABF53?style=for-the-badge&logo=latex&logoColor=white"/>
+</div>
+
+## Meu Status no GitHub
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulo-de-Souza&theme=zenburn)
 
 <!--
 **Paulo-de-Souza/Paulo-de-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
